@@ -5,7 +5,7 @@
 Реализовано на **Python 3.10** с использованием **Playwright** и паттерна **Page Object Model**.
 
 ## Как запустить
-Для запуска тестов в изолированной среде (Docker):
+Для запуска тестов в изолированной среде:
 docker build -t my-tests .
 docker run --rm my-tests
 
